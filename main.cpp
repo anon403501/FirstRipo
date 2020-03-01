@@ -33,10 +33,8 @@ int main()
       // Write to the file
       MyFile << Ntext;
 
-      cout << "done??" << endl;
+      cout << "done??" << endl << endl;
       MyFile.close();
-
-
     }
 
     else if(action == "2")
