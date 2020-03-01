@@ -1,2 +1,1 @@
-# FirstRipo
-This is my first ripository and i don't know what i am doing 
+I am still learng to code and this is a stupid notes app
